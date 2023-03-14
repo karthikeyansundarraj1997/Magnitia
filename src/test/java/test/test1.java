@@ -15,6 +15,6 @@ public class test1
 		//Access chrome browser using that chromedriver software
 		ChromeDriver driver=new ChromeDriver();
 		//launch site
-		driver.get("https://www.google.com/");
+		driver.get("https://www.facebook.com/");
 	}
 }
